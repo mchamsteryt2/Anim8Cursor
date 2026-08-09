@@ -4,8 +4,6 @@ A web-based editor for Windows animated mouse cursor (.ani) files, built with Pr
 
 Try it now at https://damieng.github.io/Anim8Cursor/
 
-:3 
-
 ## Features
 
 - Open and save `.ani` files (RIFF/ACON format)
